@@ -1,6 +1,8 @@
-# HEC IA - Agentic AI Workshop
+# HEC IA - Workshop 1 - Agentic AI with n8n
 
 We will use **n8n** running in a GitHub Codespace to build AI Agents.
+> Your Github Student Pack gives you free access to Github Codespaces :)
+
 Please follow these steps **before the session** to ensure your environment is ready.
 
 ## 1. Prerequisites
@@ -26,4 +28,6 @@ Once the terminal is active:
 * If you see the n8n workflow canvas or a list of workflows, **you are ready**.
 
 ---
-*See you on Wednesday.* _vorpax_
+*See you on Wednesday.*
+
+_vorpax_
