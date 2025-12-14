@@ -1,0 +1,20 @@
+{
+	"name": "HEC IA - n8n Workshop",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "n8n",
+	"workspaceFolder": "/home/node",
+	"forwardPorts": [5678],
+	"portsAttributes": {
+		"5678": {
+			"label": "n8n Interface",
+			"onAutoForward": "notify"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.shell.linux": "/bin/bash"
+			}
+		}
+	}
+}
